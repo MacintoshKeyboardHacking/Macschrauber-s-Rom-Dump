@@ -1,0 +1,5 @@
+I cloned this repo and deleted the files to raise awareness that you should be
+careful about relying on this software to decide about spending money.
+
+In the future, I hope to release a tool to at least dump firmware without
+disabling SIP.  Because that part makes me nervous...
